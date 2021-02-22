@@ -9,7 +9,7 @@
     <!-- The above 4 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- Title -->
-    <title>Lavagem e Manutenção de Persianas e Cortinas, ligue: 11 3462-9552 | Luck Persianas</title>
+    <title>Lavagem e Manutenção de Persianas e Cortinas, ligue: 11 97098-0719 | Luck Persianas</title>
 
     <!-- Favicon -->
     <link rel="icon" href="img/core-img/favicon.png">

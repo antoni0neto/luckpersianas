@@ -124,7 +124,7 @@
                             </div>
 	
 							<div class="whatsapp">
-							    <a href="https://api.whatsapp.com/send?phone=5511970980719&text=Quero%20solicitar%20o%20a%20servi%C3%A7o%20de%20voc%C3%AAs." target="_blank" data-toggle="tooltip" data-placement="bottom" title="CLIQUE PARA SOLICITAR ORÇAMENTO VIA WHATSAPP"><img src="../img/core-img/whatsapp.png" alt="Persianas Luck | Ligue: (11) 3462-9552" /></a>
+							    <a href="https://api.whatsapp.com/send?phone=5511970980719&text=Quero%20solicitar%20o%20a%20servi%C3%A7o%20de%20voc%C3%AAs." target="_blank" data-toggle="tooltip" data-placement="bottom" title="CLIQUE PARA SOLICITAR ORÇAMENTO VIA WHATSAPP"><img src="../img/core-img/whatsapp.png" alt="Persianas Luck | Ligue: (11) 97098-0719" /></a>
 							</div>
 
                             <!-- Nav Start -->
@@ -154,7 +154,7 @@
 
                         <!-- Contact -->
                         <div class="contact">
-                            <a href="" target="_blank" data-toggle="tooltip" data-placement="bottom" title="LIGUE AGORA PARA SOLICITAR O SEU OR�AMENTO"><img src="img/core-img/call2.png" alt="Luck Persianas | Ligue: (11) 3462-9552"> (11) 3462-9552</a>
+                            <a href="" target="_blank" data-toggle="tooltip" data-placement="bottom" title="LIGUE AGORA PARA SOLICITAR O SEU OR�AMENTO"><img src="img/core-img/call2.png" alt="Luck Persianas | Ligue: (11) 97098-0719"> (11) 97098-0719</a>
                         </div>
                     </nav>
                 </div>
